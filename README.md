@@ -1,5 +1,8 @@
 # Android To-Do List App | Task Management, Reminders & Categories
 
+> **Repository status:** The current Git tree contains only root-level Gradle configuration and documentation; the referenced `app/` module is not present. As checked, this repository cannot build an APK until the Android application source/module is restored. Feature descriptions below document the intended app, not verified functionality in this checkout.
+
+
 TO-DO-APPLICATION-HY_KOUSHIK is an Android task management app for creating, editing, organizing, and completing everyday tasks. It focuses on practical to-do list features such as categories, due dates, reminders, local data persistence, dark mode, and task progress. The project is built with Kotlin and Android tools and serves as a starting point for learning native Android app development.
 
 ---
